@@ -14,6 +14,6 @@
 
 [关于保护未成年人身心健康实施网络游戏防沉迷系统的通知](http://www.gov.cn/zwgk/2007-04/13/content_581444.htm)
 
-[网络游戏防沉迷系统开发标准](WLYXFCMXTKFBZ.doc)
+[网络游戏防沉迷系统开发标准](WLYXFCMXTKFBZ.doc) [备用链](http://www.gov.cn/zhengce/WLYXFCMXTKFBZ.doc)
 
-[网络游戏防沉迷系统实名认证方案](http://www.gov.cn/zhengce/WLYXFCMXTSMRZFW.doc)
+[网络游戏防沉迷系统实名认证方案](http://www.gov.cn/zhengce/WLYXFCMXTSMRZFW.doc) [备用链](http://www.gov.cn/zhengce/WLYXFCMXTSMRZFW.doc)
