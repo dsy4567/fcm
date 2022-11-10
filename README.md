@@ -16,7 +16,7 @@
 
 # 2006
 
-[网络游戏防沉迷系统实名认证方案](http://www.gov.cn/zhengce/WLYXFCMXTSMRZFW.doc) [备用链](http://www.gov.cn/zhengce/WLYXFCMXTSMRZFW.doc)
+[网络游戏防沉迷系统实名认证方案](WLYXFCMXTSMRZFW.doc) [备用链](http://www.gov.cn/zhengce/WLYXFCMXTSMRZFW.doc)
 
 # 2005
 
